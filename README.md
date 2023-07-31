@@ -32,7 +32,7 @@ This codebase was tested with the following environment configurations. It may w
   estimator_path=<path/to/trained/estimator/model>
   ```
 
-### Evaluate the models
+### Evaluate with InterpretNet
   ```shell
   python evaluation.py with \
   classifier_path=<path/to/trained/classifier/model> \
